@@ -5,16 +5,16 @@ Generative AI is a branch of artificial intelligence (AI) focused on creating ne
 
 ## Key Features:
 
-*1) Creativity:* Generative AI algorithms have the ability to generate novel and diverse outputs, enabling them to create content that goes beyond what they have been explicitly trained on.
-*2) Adaptability:* These models can adapt to different styles and domains, allowing users to generate content in various artistic or thematic directions.
-*3) Learning from Data:* Generative AI systems learn from large datasets to understand patterns and relationships, which they then use to generate new content.
-*4) Conditional Generation:* Some generative models can generate content based on specific inputs or conditions, allowing users to influence the output in desired ways.
+**1) Creativity:** Generative AI algorithms have the ability to generate novel and diverse outputs, enabling them to create content that goes beyond what they have been explicitly trained on.
+**2) Adaptability:** These models can adapt to different styles and domains, allowing users to generate content in various artistic or thematic directions.
+**3) Learning from Data:** Generative AI systems learn from large datasets to understand patterns and relationships, which they then use to generate new content.
+**4) Conditional Generation:** Some generative models can generate content based on specific inputs or conditions, allowing users to influence the output in desired ways.
 
 ## Technology:
 
-*1) Generative Adversarial Networks (GANs):* GANs consist of two neural networks, a generator and a discriminator, which are trained in tandem. The generator creates synthetic data samples, while the discriminator tries to differentiate between real and fake data. Through adversarial training, GANs learn to generate increasingly realistic content.
-*2) Variational Autoencoders (VAEs):* VAEs are probabilistic models that learn to encode and decode data. They capture the underlying distribution of the input data and can generate new samples by sampling from this distribution.
-*3) Recurrent Neural Networks (RNNs) and Transformers:* RNNs and Transformer models are commonly used for generating sequential data, such as text and music. They learn to predict the next element in a sequence based on previous elements, enabling them to generate coherent and contextually relevant content.
+**1) Generative Adversarial Networks (GANs):** GANs consist of two neural networks, a generator and a discriminator, which are trained in tandem. The generator creates synthetic data samples, while the discriminator tries to differentiate between real and fake data. Through adversarial training, GANs learn to generate increasingly realistic content.
+**2) Variational Autoencoders (VAEs):** VAEs are probabilistic models that learn to encode and decode data. They capture the underlying distribution of the input data and can generate new samples by sampling from this distribution.
+**3) Recurrent Neural Networks (RNNs) and Transformers:** RNNs and Transformer models are commonly used for generating sequential data, such as text and music. They learn to predict the next element in a sequence based on previous elements, enabling them to generate coherent and contextually relevant content.
 
 ## Conclusion:
 
