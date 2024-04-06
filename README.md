@@ -11,10 +11,11 @@ Generative AI is a branch of artificial intelligence (AI) focused on creating ne
 Integration: Seamlessly integrate with existing marketing platforms and tools to streamline workflows and data management processes.
 
 ## Technology:
-
-1) **Generative Adversarial Networks (GANs):** GANs consist of two neural networks, a generator and a discriminator, which are trained in tandem. The generator creates synthetic data samples, while the discriminator tries to differentiate between real and fake data. Through adversarial training, GANs learn to generate increasingly realistic content.
-2) **Variational Autoencoders (VAEs):** VAEs are probabilistic models that learn to encode and decode data. They capture the underlying distribution of the input data and can generate new samples by sampling from this distribution.
-3) **Recurrent Neural Networks (RNNs) and Transformers:** RNNs and Transformer models are commonly used for generating sequential data, such as text and music. They learn to predict the next element in a sequence based on previous elements, enabling them to generate coherent and contextually relevant content.
+1) Natural Language Processing (NLP) frameworks.
+2) Machine Learning algorithms for training and optimization.
+3) API integration for accessing external services and data sources.
+4) Web development technologies (e.g., Flask, Django) for building user interfaces (if applicable).
+5) Cloud computing platforms for hosting and scaling the chatbot application.
 
 ## Conclusion:
 
