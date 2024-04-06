@@ -1,12 +1,11 @@
 # Statement of Work (SOW) for Google Gemini API Project
-## Descritpiton:
 
 ## Overview:
 Generative AI is a branch of artificial intelligence (AI) focused on creating new content, such as images, music, text, and even videos, that mimic or are inspired by existing data. Unlike traditional AI models that are primarily designed for classification or prediction tasks, generative AI aims to produce original and creative outputs, often indistinguishable from human-generated content.
 
 ## Key Features:
 
-1) Creativity: Generative AI algorithms have the ability to generate novel and diverse outputs, enabling them to create content that goes beyond what they have been explicitly trained on.
+## 1) Creativity: Generative AI algorithms have the ability to generate novel and diverse outputs, enabling them to create content that goes beyond what they have been explicitly trained on.
 2) Adaptability: These models can adapt to different styles and domains, allowing users to generate content in various artistic or thematic directions.
 3) Learning from Data: Generative AI systems learn from large datasets to understand patterns and relationships, which they then use to generate new content.
 4) Conditional Generation: Some generative models can generate content based on specific inputs or conditions, allowing users to influence the output in desired ways.
